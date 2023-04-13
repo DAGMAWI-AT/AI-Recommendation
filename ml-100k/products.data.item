@@ -1,0 +1,254 @@
+1,shampo,shampo,100,S,new,active,100,120,4,0,Beauty & Hygiene,NULL,Sunsilk
+2,Apples,apples,100,kg,new,active,250,250,2,1,Fruits & Vegetables,NULL,NULL
+3,Avocado,avocado,100,kg,new,active,50,70,5,1,Fruits & Vegetables,NULL,NULL
+4,Banana,banana,100,kg,new,active,60,60,5,1,Fruits & Vegetables,NULL,NULL
+5,Habhab,habhab,100,kg,new,active,50,80,5,1,Fruits & Vegetables,NULL,NULL
+6,Lemon,lemon,100,kg,new,active,20,50,20,1,Fruits & Vegetables,NULL,NULL
+7,Mango,mango,100,kg,new,active,40,70,10,1,Fruits & Vegetables,NULL,NULL
+8,Orange,orange,100,kg,new,active,50,80,10,1,Fruits & Vegetables,NULL,NULL
+9,Papaya,papaya,100,kg,new,active,50,70,5,1,Fruits & Vegetables,NULL,NULL
+10,Ananas(Pineapple),ananaspineapple,100,kg,new,active,40,60,5,1,Fruits & Vegetables,NULL,NULL
+11,Dove Shampoo,dove-shampoo,100,S,new,active,110,110,5,1,Beauty & Hygiene,NULL,Dove
+12,Body Wash,body-wash,100,S,new,active,100,120,6,1,Beauty & Hygiene,NULL,Dove
+13,Lotion,lotion,100,kg,new,active,100,130,5,1,Beauty & Hygiene,NULL,Dove
+14,Soaps,soaps,100,S,new,active,40,60,5,1,Beauty & Hygiene,NULL,Dove
+15,Conditioner,conditioner,100,S,new,active,90,120,15,1,Beauty & Hygiene,NULL,Dove
+16,one wuha,one-wuha,100,l,new,active,15,27,0,1,Beverages,NULL,one water
+17,Coca-cola,coca-cola,100,"l,S",new,active,15,30,0,1,Beverages,NULL,Coca
+18,Sprites,sprites,100,"l,S",new,active,17,35,0,1,Beverages,NULL,Sprites
+19,Mirinda,mirinda,100,"l,S",new,active,16,30,0,1,Beverages,NULL,NULL
+20,Awash Wine,awash-wine,100,L,new,active,150,150,0,1,Beverages,NULL,Awashi
+21,Guder Wine,guder-wine,100,"S,M,L",new,active,170,170,0,1,Beverages,NULL,Guder
+22,Axumit,axumit,100,"S,M,L",new,active,150,190,5,1,Beverages,NULL,Axumit
+23,maza mango juice,maza-mango-juice,100,M,new,active,25,40,0,1,Beverages,NULL,NULL
+24,Rani juice,rani-juice,100,L,new,active,50,70,0,1,Beverages,NULL,NULL
+25,Red Bull,red-bull,100,M,new,active,20,35,0,1,Beverages,NULL,Red Bull
+26,Colgate teeth soap,colgate-teeth-soap,100,M,new,active,30,50,0,1,Beauty & Hygiene,NULL,Colgate
+27,Baby gear,baby-gear,50,L,new,active,150,250,15,1,Baby Care,NULL,NULL
+28,Canbebe diaper,canbebe-diaper,70,M,new,active,120,150,0,1,Baby Care,NULL,NULL
+29,Baby Pacifiers,baby-pacifiers,40,S,default,active,50,60,0,1,Baby Care,NULL,NULL
+30,baby toys,baby-toys,30,M,default,active,250,400,20,1,Baby Care,NULL,NULL
+31,Habesha hean Meat(sga),habesha-hean-meatsga,45,M,new,active,250,500,0,1,"Eggs, Meat & Fish",NULL,NULL
+32,Canbebe wipes,canbebe-wipes,100,M,default,active,100,120,5,1,Beauty & Hygiene,NULL,NULL
+33,Dove baby lotion,dove-baby-lotion,80,M,new,active,100,145,8,1,Baby Care,NULL,Dove
+34,Egg,egg,100,M,hot,active,7,13,0,1,"Eggs, Meat & Fish",NULL,NULL
+35,Maybelline foundation,maybelline-foundation,120,M,new,active,200,250,5,1,Beauty & Hygiene,NULL,Maybelline
+36,Maybelline lipstick,maybelline-lipstick,100,M,new,active,100,120,0,1,Beauty & Hygiene,NULL,Maybelline
+37,Fish meat,fish-meat,30,kg,hot,active,120,170,0,1,"Eggs, Meat & Fish",NULL,NULL
+38,Mojo wetet(Milk),mojo-wetetmilk,100,l,new,active,70,100,0,1,Beverages,NULL,NULL
+39,Meat,meat,50,kg,new,active,200,400,0,1,"Eggs, Meat & Fish",NULL,NULL
+40,Revlon eyeshadow,revlon-eyeshadow,100,M,new,active,200,300,5,1,Beauty & Hygiene,NULL,Revlon
+41,Coak,coak,100,kg,new,active,35,50,0,1,Fruits & Vegetables,NULL,NULL
+42,Head $ Shoulders,head-shoulders,100,S,new,active,100,150,5,1,Beauty & Hygiene,NULL,Head & Shoulders
+43,Baby lotion,baby-lotion,70,M,new,active,90,140,0,1,Baby Care,NULL,Nivea
+44,Baby lotion,baby-lotion-2303261651-159,40,S,new,active,100,100,0,1,Baby Care,NULL,NULL
+45,L'Oreal hair dyes,loreal-hair-dyes,60,M,new,active,150,160,0,1,Beauty & Hygiene,NULL,L'Oreal
+46,Baby wipes,baby-wipes,40,M,new,active,70,90,0,1,Baby Care,NULL,NULL
+47,L'Oreal makeup,loreal-makeup,70,L,new,active,250,400,0,1,Beauty & Hygiene,NULL,L'Oreal
+48,Mama wetet(milk),mama-wetetmilk,50,l,new,active,40,70,0,1,Beverages,NULL,NULL
+49,Head $ Shoulders conditioners,head-shoulders-conditioners,77,S,default,active,120,200,0,1,Beauty & Hygiene,NULL,Head & Shoulders
+50,Garnier facial cleansers,garnier-facial-cleansers,80,"S,M",new,active,100,120,0,1,Beauty & Hygiene,NULL,Garnier
+51,Boss baby diapers,boss-baby-diapers,50,"S,M",new,active,100,150,0,1,Baby Care,NULL,NULL
+52,Happy milk,happy-milk,40,l,hot,active,35,50,0,1,Beverages,NULL,NULL
+53,Pampers wipes,pampers-wipes,70,S,new,active,40,60,0,1,Beauty & Hygiene,NULL,NULL
+54,Olay serums,olay-serums,70,S,new,active,170,260,0,1,Beauty & Hygiene,NULL,Olay
+55,Nido Baby formula,nido-baby-formula,70,M,new,active,100,150,0,1,Baby Care,NULL,NULL
+56,Pmpers diper,pmpers-diper,60,"M,L",new,active,100,160,0,1,Baby Care,NULL,NULL
+57,Nivea body spray,nivea-body-spray,45,"S,M",new,active,100,150,0,1,Beauty & Hygiene,NULL,Nivea
+58,Nivea rolo,nivea-rolo,50,S,new,active,200,300,0,1,Beauty & Hygiene,NULL,Nivea
+59,Nivea lotion,nivea-lotion,60,"S,M",new,active,200,350,0,1,Beauty & Hygiene,NULL,Nivea
+60,Olay eye creams,olay-eye-creams,70,"S,M",new,active,120,190,0,1,Beauty & Hygiene,NULL,Olay
+61,Garnier mostuization,garnier-mostuization,90,S,new,active,110,190,5,1,Beauty & Hygiene,NULL,Garnier
+62,Maybelline Mascara,maybelline-mascara,100,M,new,active,120,200,0,1,Beauty & Hygiene,NULL,Maybelline
+63,Revlon foundation,revlon-foundation,100,S,new,active,100,160,0,1,Beauty & Hygiene,NULL,Revlon
+64,Revlon lipstick,revlon-lipstick,70,S,new,active,110,140,0,1,Beauty & Hygiene,NULL,Revlon
+65,Nivea moisturizers,nivea-moisturizers,60,M,new,active,100,130,0,1,Beauty & Hygiene,NULL,Nivea
+66,Neutrogena facial cleansers,neutrogena-facial-cleansers,55,M,new,active,130,170,5,1,Beauty & Hygiene,NULL,Neutrogena
+67,Neutrogena Acne Treatments,neutrogena-acne-treatments,100,M,new,active,70,120,5,1,Beauty & Hygiene,NULL,Neutrogena
+68,Neutrogena Moisturizers,neutrogena-moisturizers,60,M,new,active,200,300,0,1,Beauty & Hygiene,NULL,Neutrogena
+69,Similac Baby formula,similac-baby-formula,80,"l,S,M",new,active,100,150,0,1,Baby Care,NULL,NULL
+70,Super Soft Diper,super-soft-diper,30,"M,L",new,active,100,240,20,1,Baby Care,NULL,NULL
+71,Baby Teething toys,baby-teething-toys,70,S,new,active,45,60,0,1,Baby Care,NULL,NULL
+72,L'Oreal Skin Care,loreal-skin-care,47,M,new,active,250,400,10,1,Beauty & Hygiene,NULL,L'Oreal
+73,Red grapefruits,red-grapefruits,90,kg,new,active,50,70,0,1,Fruits & Vegetables,NULL,NULL
+74,Maybelline Eyeshadow,maybelline-eyeshadow,90,M,new,active,240,360,5,1,Beauty & Hygiene,NULL,Maybelline
+75,Cool baby lotion,cool-baby-lotion,30,"l,S,M",default,active,100,130,10,1,Baby Care,NULL,NULL
+76,3D Juice,3d-juice,50,M,new,active,40,60,0,1,Beverages,NULL,3D Juice
+77,Red Flowers,red-flowers,30,M,new,active,100,200,2,1,Flowers,NULL,NULL
+78,Sunsilk Conditioner,sunsilk-conditioner,70,M,new,active,100,130,0,1,Beauty & Hygiene,NULL,Sunsilk
+79,Carrots,carrots,50,kg,new,active,45,70,0,1,Fruits & Vegetables,NULL,NULL
+80,Family wetet(Milk),family-wetetmilk,30,l,new,active,35,50,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+81,Tomato,tomato,100,kg,new,active,30,70,0,1,Fruits & Vegetables,NULL,NULL
+82,Bread,bread,100,M,hot,active,7,10,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+83,Small Bread,small-bread,100,S,hot,active,4,7,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+84,Sun Chips,sun-chips,80,S,new,active,15,27,0,1,Snacks & Branded Foods,NULL,NULL
+85,birth day Cake,birth-day-cake,15,kg,hot,active,200,350,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+86,Normal cakes,normal-cakes,20,"kg,M",hot,active,150,270,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+87,Cheese,cheese,35,kg,new,active,55,75,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+88,Dabo kolo,dabo-kolo,70,kg,hot,active,70,100,0,1,Snacks & Branded Foods,NULL,NULL
+89,Family ergo(Yogurt ),family-ergoyogurt,60,M,new,active,60,80,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+90,Dirkosh,dirkosh,60,kg,hot,active,85,130,5,1,Snacks & Branded Foods,NULL,NULL
+91,Happy ergo(yogurt),happy-ergoyogurt,40,"S,M",new,active,60,70,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+92,Kolo,kolo,70,kg,hot,active,70,90,0,1,Snacks & Branded Foods,NULL,NULL
+93,karya(Green chilies),karyagreen-chilies,70,kg,new,active,60,70,0,1,Fruits & Vegetables,NULL,NULL
+94,Selata,selata,45,M,new,active,15,25,0,1,Fruits & Vegetables,NULL,NULL
+95,Tkl Gomen,tkl-gomen,40,kg,new,active,50,60,0,1,Fruits & Vegetables,NULL,NULL
+96,Omaar Food Oil,omaar-food-oil,150,l,new,active,600,800,5,1,"Foodgrains, Oil & Masala",NULL,NULL
+97,Rolio Oil,rolio-oil,50,l,new,active,500,700,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+98,Kosta,kosta,30,S,new,active,15,20,0,1,Fruits & Vegetables,NULL,NULL
+99,Roses Flowers,roses-flowers,70,M,new,active,100,120,10,1,Flowers,NULL,NULL
+100,Tsehay food Oils,tsehay-food-oils,100,l,new,active,700,900,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+101,7up,7up,70,"S,M",new,active,25,30,0,1,Beverages,NULL,Sprites
+102,Absh(absh),absh,65,kg,new,active,100,140,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+103,Aja,aja,45,kg,new,active,70,90,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+104,Beans(ater),beansater,100,kg,new,active,50,60,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+105,Berbere,berbere,100,kg,default,active,110,110,0,1,Flour & meal,NULL,NULL
+106,Bright Bekas liquid laundry detergent,bright-bekas-liquid-laundry-detergent,75,l,new,active,90,140,10,1,"Kitchen, Cleaners & Pets",NULL,NULL
+107,Butter,butter,100,"kg,l",new,active,250,300,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+108,Chicken,chicken,50,L,hot,active,400,500,0,1,"Eggs, Meat & Fish",NULL,NULL
+109,Chocolate,chocolate,100,M,new,active,30,30,0,1,Snacks & Branded Foods,NULL,NULL
+110,Baking powder,baking-powder,60,kg,default,active,35,45,0,1,Flour & meal,NULL,NULL
+111,Cookies,cookies,70,"kg,L",hot,active,35,60,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+112,Duru Hand Made Olive Oil Soap,duru-hand-made-olive-oil-soap,50,l,new,active,45,70,0,1,"Kitchen, Cleaners & Pets",NULL,NULL
+113,Ethio-coffee,ethio-coffee,100,,default,active,250,250,0,1,Flour & meal,NULL,NULL
+114,Fanta,fanta,100,"l,S",default,active,20,30,0,1,Beverages,NULL,Mirinda
+115,Flour(Fino),flourfino,100,kg,default,active,50,60,0,1,Flour & meal,NULL,NULL
+116,Fogg Deodorant,fogg-deodorant,80,,new,active,100,170,5,1,Beauty & Hygiene,NULL,Fogg
+117,Fogg perfumes,fogg-perfumes,100,M,new,active,200,250,5,1,Beauty & Hygiene,NULL,Fogg
+118,Honey,honey,70,"kg,l",default,active,200,250,0,1,Beverages,NULL,NULL
+119,Fogg rolo,fogg-rolo,70,S,default,active,200,250,0,1,Beauty & Hygiene,NULL,Fogg
+120,Large Indomie,large-indomie,100,L,default,active,37,40,0,1,Snacks & Branded Foods,NULL,NULL
+121,Small indomie,small-indomie,100,S,new,active,30,35,0,1,Snacks & Branded Foods,NULL,NULL
+122,Kaffa coffee,kaffa-coffee,100,kg,new,active,200,300,0,1,Flour & meal,NULL,NULL
+123,Kamila Wine,kamila-wine,70,L,new,active,170,210,0,1,Beverages,NULL,NULL
+124,Kit Kat chocolate,kit-kat-chocolate,100,L,default,active,20,40,0,1,Snacks & Branded Foods,NULL,NULL
+125,kojj pasta,kojj-pasta,100,L,default,active,70,90,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+126,Largo Liquid Detergent,largo-liquid-detergent,50,l,new,active,120,170,0,1,"Kitchen, Cleaners & Pets",NULL,NULL
+127,Lifebuoy soap,lifebuoy-soap,100,L,new,active,30,40,0,1,Beauty & Hygiene,NULL,NULL
+128,Shiro(sro),shiro,70,kg,new,active,60,90,0,1,Flour & meal,NULL,NULL
+129,Yeast,yeast,45,S,default,active,80,100,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+130,Windex cleaning liquid Detergent,windex-cleaning-liquid-detergent,100,l,default,active,120,160,0,1,"Kitchen, Cleaners & Pets",NULL,NULL
+131,Vera pasta,vera-pasta,100,kg,default,active,40,70,0,1,Snacks & Branded Foods,NULL,NULL
+132,Tomoca coffee,tomoca-coffee,100,kg,default,active,250,300,0,1,Flour & meal,NULL,NULL
+133,Sugar,sugar,100,kg,default,active,40,70,0,1,Flour & meal,NULL,NULL
+134,Mamco soft Paper Towels,mamco-soft-paper-towels,150,,default,active,25,40,0,1,"Kitchen, Cleaners & Pets",NULL,NULL
+135,Sanitizer,sanitizer,100,l,default,active,60,70,0,1,"Kitchen, Cleaners & Pets",NULL,NULL
+136,Omo detergent,omo-detergent,60,M,default,active,30,40,0,1,"Kitchen, Cleaners & Pets",NULL,NULL
+137,Royal pasta,royal-pasta,100,L,default,active,60,80,0,1,Snacks & Branded Foods,NULL,NULL
+138,Mekorene,mekorene,100,M,default,active,50,60,0,1,Snacks & Branded Foods,NULL,NULL
+139,Out side Rice(ruz),out-side-riceruz,100,kg,default,active,60,80,0,1,Snacks & Branded Foods,NULL,NULL
+140,inside Rice(ruz),inside-riceruz,100,kg,default,active,50,70,0,1,Snacks & Branded Foods,NULL,NULL
+141,Nuts lewuz,nuts-lewuz,100,kg,new,active,100,120,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+142,Mayonnaise,mayonnaise,100,S,hot,active,70,100,0,1,Snacks & Branded Foods,NULL,NULL
+143,Maraki butter,maraki-butter,80,"kg,l",hot,active,250,300,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+144,oats(gebs),oatsgebs,100,kg,default,active,50,70,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+145,Ouzo,ouzo,30,M,new,active,130,170,0,1,Beverages,NULL,NULL
+146,Popcorn(fendsha),popcornfendsha,100,S,hot,active,120,120,0,1,Snacks & Branded Foods,NULL,NULL
+147,Pet food,pet-food,100,kg,default,active,50,70,0,1,Gourmet & World Food,NULL,NULL
+148,ice cream,ice-cream,100,M,default,active,50,60,0,1,Sweet product,NULL,NULL
+149,Mitmita(mitmita),mitmita,100,kg,new,active,60,80,0,1,Flour & meal,NULL,NULL
+150,cereal,cereal,100,M,default,active,50,70,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+151,Acorn squash,acorn-squash,60,kg,new,active,40,60,0,1,Fruits & Vegetables,NULL,NULL
+152,Apple chips,apple-chips,100,M,default,active,35,50,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+153,Apricot,apricot,80,kg,new,active,40,60,0,1,Fruits & Vegetables,NULL,NULL
+154,Artificial sweeteners,artificial-sweeteners,70,kg,default,active,60,90,0,1,Sweet product,NULL,NULL
+155,Banana chips,banana-chips,100,M,new,active,60,90,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+156,Bean sprouts,bean-sprouts,50,kg,new,active,60,70,0,1,Fruits & Vegetables,NULL,NULL
+157,bean(boleka),beanboleka,100,kg,default,active,85,100,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+158,Beets(key sr),beetskey-sr,90,kg,new,active,70,80,0,1,Fruits & Vegetables,NULL,NULL
+159,Bell peppers(yewuchi karya),bell-peppersyewuchi-karya,100,kg,new,active,70,80,0,1,Fruits & Vegetables,NULL,NULL
+160,Blackberries,blackberries,90,M,default,active,80,90,0,1,Fruits & Vegetables,NULL,NULL
+161,Bok choy,bok-choy,50,kg,new,active,70,80,0,1,Fruits & Vegetables,NULL,NULL
+162,Bright and colorfull Dried Flowers,bright-and-colorfull-dried-flowers,100,L,new,active,150,170,0,1,Flowers,NULL,NULL
+163,Broccoli,broccoli,100,kg,new,active,70,90,0,1,Fruits & Vegetables,NULL,NULL
+164,chocolate brownie,chocolate-brownie,90,kg,hot,active,45,55,0,1,Sweet product,NULL,NULL
+165,Brussel sprouts,brussel-sprouts,90,kg,default,active,60,70,0,1,Fruits & Vegetables,NULL,NULL
+166,Butternut squash,butternut-squash,100,kg,new,active,50,60,0,1,Fruits & Vegetables,NULL,NULL
+167,Cabbage(tkl gomen),cabbagetkl-gomen,70,kg,new,active,50,55,0,1,Fruits & Vegetables,NULL,NULL
+168,Cake cream,cake-cream,90,kg,hot,active,80,100,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+169,Calendula officinalis,calendula-officinalis,40,S,default,active,100,150,0,1,Flowers,NULL,NULL
+170,Candy,candy,150,XL,default,active,100,150,0,1,Sweet product,NULL,NULL
+171,Candy chocolate,candy-chocolate,100,S,default,active,45,70,0,1,Sweet product,NULL,NULL
+172,Cauliflower,cauliflower,90,kg,new,active,70,90,0,1,Fruits & Vegetables,NULL,NULL
+173,Chives,chives,100,kg,new,active,70,75,0,1,Fruits & Vegetables,NULL,NULL
+174,Chrysanthemums flower,chrysanthemums-flower,100,S,new,active,100,120,0,1,Flowers,NULL,NULL
+175,Cold brew tea,cold-brew-tea,70,S,default,active,40,50,0,1,Fruits & Vegetables,NULL,NULL
+176,Beautiful Flower Arrangements,beautiful-flower-arrangements,100,M,new,active,150,200,5,1,Flowers,NULL,NULL
+177,Cookies,cookies-2304020056-925,70,S,new,active,30,40,5,1,Flowers,NULL,NULL
+178,Cupcake,cupcake,100,S,hot,active,70,90,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+179,Dates(teimr),datesteimr,170,kg,default,active,100,200,2,1,Sweet product,NULL,NULL
+180,packed Dates (temr),packed-dates-temr,100,"kg,M",default,active,150,250,5,1,Sweet product,NULL,NULL
+181,Floral Wreaths flowers,floral-wreaths-flowers,100,M,new,active,100,170,0,1,Flowers,NULL,NULL
+182,flower bouquet,flower-bouquet,100,M,default,active,170,250,10,1,Flowers,NULL,NULL
+183,Flower Essential Oils,flower-essential-oils,120,S,default,active,100,120,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+184,garlands  wedding flowers,garlands-wedding-flowers,170,M,new,active,190,260,10,1,Flowers,NULL,NULL
+185,Garlic,garlic,160,kg,default,active,70,120,0,1,Fruits & Vegetables,NULL,NULL
+186,Fresh Cut Flowers,fresh-cut-flowers,100,M,new,active,100,160,5,1,Flowers,NULL,NULL
+187,Welch’s  Fruit Snacks,welchs-fruit-snacks,130,M,default,active,50,70,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+188,Ginger tea,ginger-tea,150,S,default,active,10,25,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+189,Ginger,ginger,100,kg,default,active,90,120,0,1,Fruits & Vegetables,NULL,NULL
+190,Good morning tea large,good-morning-tea-large,70,L,default,active,35,45,0,1,Flour & meal,NULL,NULL
+191,good morning tea small,good-morning-tea-small,100,S,default,active,10,15,0,1,Flour & meal,NULL,NULL
+192,Green tea,green-tea,109,L,default,active,45,60,0,1,Flour & meal,NULL,NULL
+193,Habesha Gomen,habesha-gomen,50,M,new,active,30,50,0,1,Fruits & Vegetables,NULL,NULL
+194,Hero Jam(marmarata),hero-jammarmarata,170,S,default,active,100,150,0,1,Sweet product,NULL,NULL
+195,Hot steamed Pudding,hot-steamed-pudding,70,S,new,active,100,120,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+196,Potatos(dnch),potatosdnch,100,kg,new,active,25,40,0,1,Fruits & Vegetables,NULL,NULL
+197,pumpkin (duba),pumpkin-duba,80,kg,default,active,40,50,0,1,Fruits & Vegetables,NULL,NULL
+198,potted plant,potted-plant,100,S,default,active,170,270,0,1,Flowers,NULL,NULL
+199,Prunes,prunes,100,kg,new,active,100,120,0,1,Fruits & Vegetables,NULL,NULL
+200,Smucker’s Peach Preserves,smuckers-peach-preserves,100,M,new,active,150,200,0,1,Sweet product,NULL,NULL
+201,Pastry,pastry,50,S,hot,active,40,50,0,1,"Bakery, Cakes & Dairy",NULL,NULL
+202,Parsnip (Pastinaca sativa),parsnip-pastinaca-sativa,70,kg,new,active,30,45,0,1,Fruits & Vegetables,NULL,NULL
+203,Pansies,pansies,70,S,default,active,60,90,0,1,Flowers,NULL,NULL
+204,peas (ater),peas-ater,100,kg,new,active,40,60,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+205,Packed Sliced Beets,packed-sliced-beets,70,M,default,active,60,80,0,1,Sweet product,NULL,NULL
+206,Packed Raisins (zebib),packed-raisins-zebib,100,S,default,active,50,60,0,1,Sweet product,NULL,NULL
+207,Packed Philippine Dried Mango Chips,packed-philippine-dried-mango-chips,100,M,new,active,70,80,5,1,"Foodgrains, Oil & Masala",NULL,NULL
+208,Bush's Beans,bushs-beans,80,M,new,active,70,90,2,1,"Foodgrains, Oil & Masala",NULL,NULL
+209,Packed Banana Chips,packed-banana-chips,90,S,default,active,60,70,5,1,"Foodgrains, Oil & Masala",NULL,NULL
+210,Packed Apple Chips,packed-apple-chips,100,M,default,active,50,60,5,1,"Foodgrains, Oil & Masala",NULL,NULL
+211,Apple Sauce,apple-sauce,90,M,default,active,70,80,5,1,Sweet product,NULL,NULL
+212,Onions,onions,150,kg,new,active,25,40,2,1,Fruits & Vegetables,NULL,NULL
+213,oceanspray whole cranberry sauce,oceanspray-whole-cranberry-sauce,100,M,default,active,70,110,10,1,Sweet product,NULL,NULL
+214,Nasturtiums,nasturtiums,60,M,new,active,100,130,0,1,Flowers,NULL,NULL
+215,Mott's Applesauce,motts-applesauce,100,M,default,active,100,140,5,1,Sweet product,NULL,NULL
+216,Mints,mints,60,"kg,M",new,active,15,25,0,1,Fruits & Vegetables,NULL,NULL
+217,Lettuce(selata),lettuceselata,70,M,new,active,30,45,0,1,Fruits & Vegetables,NULL,NULL
+218,Lentil (dfn msr),lentil-dfn-msr,100,kg,default,active,90,110,5,1,"Foodgrains, Oil & Masala",NULL,NULL
+219,Orange lentils(becha msr),orange-lentilsbecha-msr,100,kg,default,active,100,140,5,1,"Foodgrains, Oil & Masala",NULL,NULL
+220,Leeks,leeks,100,kg,default,active,110,140,5,1,"Foodgrains, Oil & Masala",NULL,NULL
+221,Collard greens(kosta),collard-greenskosta,90,M,new,active,30,40,5,1,Fruits & Vegetables,NULL,NULL
+222,Tabasco sauce,tabasco-sauce,100,S,default,active,110,120,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+223,Swiss chard,swiss-chard,120,S,default,active,40,50,0,1,Fruits & Vegetables,NULL,NULL
+224,Sweet Potato (skuwar dnchi),sweet-potato-skuwar-dnchi,130,kg,default,active,35,45,5,1,Fruits & Vegetables,NULL,NULL
+225,Strawberry,strawberry,130,M,new,active,120,150,5,1,Fruits & Vegetables,NULL,NULL
+226,Strawberry jam,strawberry-jam,100,S,default,active,140,150,0,1,Sweet product,NULL,NULL
+227,Strawberry jam Smuckers,strawberry-jam-smuckers,100,M,default,active,170,160,5,1,Sweet product,NULL,NULL
+228,Spinach,spinach,100,M,new,active,20,35,0,1,Fruits & Vegetables,NULL,NULL
+229,vegetable spaghetti,vegetable-spaghetti,60,M,default,active,60,90,0,1,Fruits & Vegetables,NULL,NULL
+230,Six luge cherry sauce,six-luge-cherry-sauce,70,S,default,active,80,90,5,1,Sweet product,NULL,NULL
+231,Sirsir Honey,sirsir-honey,100,M,new,active,100,140,5,1,Sweet product,NULL,NULL
+232,Shallot,shallot,90,kg,new,active,40,60,10,1,Fruits & Vegetables,NULL,NULL
+233,Ringtons Fruit Jellies,ringtons-fruit-jellies,100,M,default,active,100,170,5,1,Sweet product,NULL,NULL
+234,Red Roses Flowers,red-roses-flowers,130,M,new,active,190,230,0,1,Flowers,NULL,NULL
+235,Red Rose tea,red-rose-tea,90,M,default,active,40,50,5,1,Flour & meal,NULL,NULL
+236,Raspberry jelly Mitchells,raspberry-jelly-mitchells,60,M,default,active,70,100,5,1,Sweet product,NULL,NULL
+237,Red Lentil,red-lentil,100,kg,default,active,130,150,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+238,Red berries,red-berries,70,M,new,active,120,150,5,1,Fruits & Vegetables,NULL,NULL
+239,Raisin,raisin,100,kg,default,active,80,90,0,1,Fruits & Vegetables,NULL,NULL
+240,Zucchini,zucchini,100,kg,default,active,30,50,2,1,Fruits & Vegetables,NULL,NULL
+241,Wush Wush Tea,wush-wush-tea,170,L,default,active,30,40,5,1,Flour & meal,NULL,NULL
+242,Valentine's day flowers,valentines-day-flowers,100,M,default,active,200,270,10,1,Flowers,NULL,NULL
+243,Turnip,turnip,100,kg,default,active,45,70,0,1,Fruits & Vegetables,NULL,NULL
+244,23 watt fluorescent lighting,23-watt-fluorescent-lighting,70,S,default,active,50,60,0,1,Electronics,NULL,NULL
+245,65 watt led fluorescent light,65-watt-led-fluorescent-light,120,M,default,active,100,150,0,1,Electronics,NULL,NULL
+246,Air conditioner,air-conditioner,100,S,default,active,140,200,0,1,Electronics,NULL,NULL
+247,Tena Food oil,tena-food-oil,190,l,new,active,800,900,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+248,Camcorder,camcorder,30,S,new,active,500,650,5,1,Electronics,NULL,NULL
+249,Crystal Food Oil,crystal-food-oil,100,l,new,active,600,800,0,1,"Foodgrains, Oil & Masala",NULL,NULL
+250,Tena Food  oil,tena-food-oil-2304033624-482,200,l,new,active,100,190,5,1,"Foodgrains, Oil & Masala",NULL,NULL
+251,Fitness Trackers,fitness-trackers,90,M,new,active,250,350,5,1,Electronics,NULL,NULL
+252,Canon digital camera,canon-digital-camera,50,S,new,active,400,700,5,1,Electronics,NULL,NULL
+253,Ardo Refrigerator,ardo-refrigerator,40,M,new,active,5000,10000,5,1,Electronics,NULL,NULL
+254,Home Thermometer,home-thermometer,100,S,default,active,100,200,5,1,Electronics,NULL,NULL
