@@ -27,7 +27,7 @@ correlation_matrix = np.corrcoef(resultant_matrix)
 
 titles = data_pivot_table.columns
 products_list = list(titles)
- # list of all movies
+ # list of all product
 
 
 
